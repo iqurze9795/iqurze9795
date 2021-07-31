@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iqurze9795
+- 👋 Hi, I’m nick.
 - 👀 I’m interested in blockchain technology.
 - 🌱 I’m currently learning DEFI, Smartcontract.
 - 💞️ I’m looking to collaborate on blockchain project
